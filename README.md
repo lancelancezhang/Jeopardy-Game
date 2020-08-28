@@ -1,12 +1,10 @@
-# SOFTENG 206 Assignment 1
+#Jeopardy! Game
 
-You will find the instructions to complete this assignment in Canvas. 
+A command line version of the Jeopardy! game show created as a university project
 
-Things to adjust before assignment 2
-- Make sure save state works
-- exiting out of the code 
-- general tidy-up of the code 
-- ensure espeak works correctly
-- adjust save state to go into a text file?
-- better way to track everything else
-- fix some of the error checking?
+Intended to be played in a Linux environment
+
+##Key features
+- User input
+- User save files for points and current progress in Jeopardy
+- Espeak ask questions as audio
