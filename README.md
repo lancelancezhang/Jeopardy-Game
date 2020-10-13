@@ -1,10 +1,24 @@
-# Jeopardy! Game
+# Jeopardy! Quinzical Game
 
-A command line version of the Jeopardy! game show created as a university project
+NOTE: As this is an ongoing project - current code in repository is not the real code used in the creation of this application! Will be updated in future
+
+Quinzical is a Quiz game similar to Jeopardy intended to teach the user more about New Zealand
+This is an application with front end created in javafx/styled with fxml and back end created in java and bash. 
 
 Intended to be played in a Linux environment
 
+Built by Lance Zhang and Syed Ahmad Kazmi
+
 ## Key features
-- User input
+- Games Module - that tracks the user's score
+- Practice Module - an easy way for the user to learn to play the game
 - User save files for points and current progress in Jeopardy
-- Espeak ask questions as audio
+- Text-to-speech capabilities to 'say' questions to user
+- TTS speed changer
+- Reading in text files for questions 
+
+# Main Menu
+
+# Games Module
+
+# Practice Module
