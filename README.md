@@ -15,10 +15,11 @@ Built by Lance Zhang and Syed Ahmad Kazmi
 - User save files for points and current progress in Jeopardy
 - Text-to-speech capabilities to 'say' questions to user
 - TTS speed changer
-- Reading in text files for questions 
+- Reading/Write in text files through bash script
 
-# Main Menu
-
-# Games Module
-
-# Practice Module
+## Main Menu
+![MainMenu](https://github.com/lancelancezhang/Jeopardy-Game/blob/master/1.JPG)
+## Games Module
+![GamesModule](https://github.com/lancelancezhang/Jeopardy-Game/blob/master/2.JPG)
+## Practice Module
+![PracticeModule](https://github.com/lancelancezhang/Jeopardy-Game/blob/master/3.JPG)
